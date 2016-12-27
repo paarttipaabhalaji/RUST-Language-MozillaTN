@@ -1,2 +1,2 @@
-# Rust_MozTN_Activity
-My Rust_MozTN_Activity
+# RUST
+Mozilla Tamilnadu Community : Rust language contribution
